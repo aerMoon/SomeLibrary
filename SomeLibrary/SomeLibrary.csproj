@@ -1,0 +1,10 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <SignAssembly>True</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <AssemblyOriginatorKeyFile>C:\Users\Elena\Desktop\Refactoring\SomeLibrary\keyPair.snk</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+
+</Project>
